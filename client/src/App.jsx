@@ -1,7 +1,7 @@
 import React from 'react'
 import { useRoutes, Link } from 'react-router-dom'
-import Locations from './pages/Locations'
-import LocationEvents from './pages/LocationEvents'
+import Locations from './pages/Locations.jsx'
+import LocationEvents from './pages/LocationEvents.jsx'
 import Events from './pages/Events'
 import './App.css'
 
